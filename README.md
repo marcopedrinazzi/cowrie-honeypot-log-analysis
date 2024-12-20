@@ -28,3 +28,6 @@ Upload all your logs files in a folder (I used `cowrie` as a name but you can ch
 If you prefer to do the analysis in another way, the .csv files for every event id that cowrie can log are saved as well.
 
 Any contribution, feedback, or idea is welcome.
+
+## Future improvements
+- [ ] Automate Threat Intelligence Lookups (VirusTotal, MalwareBazaar, etc.)
